@@ -18,6 +18,6 @@
   Translates sign language into spoken or written language.
 
 - **`./SignLanguageProduction/`**: Sign Language Producer  
-  Converts spoken or written language into sign language representations.
+  Converts spoken language into sign language representations with 3D avatar.
 
 ---
